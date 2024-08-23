@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FoxAndGeese</string>
+
+    <string name="igraj_ponovo">Igraj Ponovo</string>
+
+    <string name="nazad">Nazad</string>
+
+    <string name="naslov">FOX AND GEESE</string>
+
+    <string name="igraj">Igraj</string>
+
+    <string name="povezivanje">Povezivanje</string>
+
+    <string name="igrac">Igrac</string>
+
+    <string name="izaberi_protivnika">Izaberi protivnika</string>
+
+    <string name="ip_adresa">IP adresa</string>
+
+    <string name="sacuvaj">Sacuvaj</string>
+
+    <string name="ime">Ime</string>
+
+    <string name="prihvati">Prihvati</string>
+
+    <string name="otkazi">Otkazi</string>
+
+    <string name="partija">Partija</string>
+
+</resources>
